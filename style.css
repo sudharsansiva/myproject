@@ -76,7 +76,7 @@ nav a {
     position: absolute;
     left: 18%;
     position: absolute;
-    top: 30%;
+    top: 40%;
     font-size: 45px;
     color: rgb(64, 62, 62);
 }
@@ -85,7 +85,7 @@ nav a {
     position: absolute;
     left: 18%;
     position: absolute;
-    top: 430px;
+    top: 43%;
     display: flex;
     flex-wrap: wrap;
     margin-left: 0;
